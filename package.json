@@ -1,0 +1,17 @@
+{
+  "name": "bitcoin-alarm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "crypto-socket": "^3.0.0",
+    "dotenv": "^5.0.1",
+    "play-sound": "^1.1.2"
+  }
+}
